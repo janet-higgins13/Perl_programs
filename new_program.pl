@@ -9,4 +9,8 @@ my $test = "Hello World";
 
 print "I am working\n";
 print "$test\n";
+
+my $change = "first change";
+print "$change\n";
+
 exit;
